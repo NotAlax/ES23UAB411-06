@@ -1,3 +1,6 @@
 # ES23UAB411-06
 
-#no cal que digui què és qui ho llegeixi, oi?
+Nil Mazozui More
+LLuc Sasot Martorell
+Àlex Seró Alsina
+Jan Sans Domingo

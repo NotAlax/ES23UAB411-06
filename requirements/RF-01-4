@@ -1,0 +1,20 @@
+### ID: 
+RF-01-4
+
+### Type/Category: 
+Requisit funcional
+
+### Version: 
+1.0
+
+### Title:
+Usuaris facin comandes
+
+### Description:
+El sistema oferirà com a resultat de les comandes solicitades, unes quantes propostes de botigues pròximes que els hi podran enviar la comanda demanada, amb recursos propis o contractant un transportista.
+
+### Relations:
+RF-01-3
+
+### Comments:
+Cap

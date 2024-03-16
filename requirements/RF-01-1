@@ -7,17 +7,14 @@ Requisit funcional
 ### Version: 
 1.0
 
-### Title: -- Nom del requisit
+### Title: 
+Comerços associats
 
+### Description: 
+El servei que proporcionem se li oferirà a petites botigues i empreses de proximitat, que no estiguin associades a cap altre grup empresarial.
 
-### Description: -- Descripció del requisit
-_Descripció textual del requisit_
+### Relations: 
+RF-01-2
 
-### Relations: -- Requisits relacionats
-_Llista dels ID dels requisits relacionats_
-Enunciat de Pràctiques Versió 1.0
-
-
-### Comments: -- Comentaris
-_Comentaris addicionals que es vulguin afegir opcionalment_
----
+### Comments:
+N/A

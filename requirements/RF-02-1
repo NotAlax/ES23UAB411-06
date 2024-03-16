@@ -1,0 +1,21 @@
+### ID: 
+RF-02-1
+
+### Type/Category: 
+Requisit funcional
+
+### Version: 
+1.0
+
+### Title:
+Sol·licitud de comanda
+
+### Description:
+Una sol·licitud de comanda consisteix en demanar al sistema a través d’una aplicació amigable una llista de queviures que necessita la persona. 
+Aquí, a diferència de com funciona una tenda habitual per Internet, l’usuari no ha de cercar res, sinó que indica al sistema què vol o necessita. Per exemple: pa, ous i llet.
+
+### Relations:
+RF-02-2
+
+### Comments:
+Cap

@@ -1,0 +1,21 @@
+### ID: 
+RNF-05-2
+
+### Type/Category:
+Requisit no funcional d'objectiu de disseny
+
+### Version: 
+1.0
+
+### Title: 
+Publicitat mostrada
+
+### Description: 
+S'intentara mostrar el mínim de publicitat als clients, mostrant entre un mínim d'1 anunci per oferta i un màxmia de 6
+
+### Relations: 
+RF-05-2
+
+### Comments: 
+La poblicitat sera mínima donat que es volen atreure clients i no pas guanyar molts ingressos
+mostrant publicitat invasiva.

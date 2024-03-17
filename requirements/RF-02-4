@@ -1,0 +1,21 @@
+### ID: 
+RF-02-4
+
+### Type/Category:
+Requisit funcional
+
+### Version: 
+1.0
+
+### Title: 
+Seguiment de comada
+
+### Description: 
+Al client se li proveirà un informe de l'estat de la comada, que s'actualitzara en temps reals.
+
+### Relations: 
+
+
+### Comments: 
+Els possibles estats de la comanda podran ser:
+comanda rebuda per la tenda, en preparació de la comanda, distribuint la comanda.

@@ -1,0 +1,22 @@
+### ID: 
+RF-03-6
+
+### Type/Category: 
+Requisit funcional
+
+### Version: 
+1.0
+
+### Title:
+
+
+### Description:
+Independentment dels abonaments, la plataforma sempre cobrarà la comissió a la botiga en el moment de fer-se el pagament. 
+Cada venedor haurà de servir la comanda eficientment, ja que el botiguer paga per servir la comanda abans i tot de garantir la venda. 
+Doncs hi podria ser que la comanda fos rebutjada per part del client o que fos incorrecta.
+
+### Relations:
+RF-03-5
+
+### Comments:
+N/A

@@ -1,0 +1,19 @@
+### ID: 
+RNF-02-1
+
+### Type/Category:
+Requisit no funcional de disseny
+
+### Version: 
+1.0
+
+### Title: 
+Interficie de seguiment
+
+### Description: 
+La interficie per seguir l'estat de la comanda ha de ser fàcil de seguir i s'actuaitara al llarg del temps amb els diferents estats
+
+### Relations: 
+RF-02-4
+
+### Comments: 

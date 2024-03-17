@@ -1,1 +1,20 @@
+### ID: 
+RF-06-4
 
+### Type/Category: 
+Requisit funcional
+
+### Version: 
+1.0
+
+### Title:
+Registre a transportistes només plataforma
+
+### Description:
+El sistema ha de permetre únicament el registre dels transportistes a través del mateix sistema.
+
+### Relations:
+RF-06-2
+
+### Comments:
+N/A

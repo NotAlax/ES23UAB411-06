@@ -1,0 +1,20 @@
+### ID: 
+RF-03-1
+
+### Type/Category: 
+RNF: interfície externa (software)
+
+### Version: 
+1.0
+
+### Title:
+Tipus de motor de la BD
+
+### Description:
+El motor haurà de ser PostgreSQL.
+
+### Relations:
+RNF-07-1
+
+### Comments:
+N/A

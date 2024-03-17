@@ -1,0 +1,20 @@
+### ID: 
+RF-06-5
+
+### Type/Category: 
+Requisit funcional
+
+### Version: 
+1.0
+
+### Title:
+Modificació dades clients
+
+### Description:
+El sistema ha de permetre als usuaris eliminar i modificar les seves dades per donar-se de baixa
+
+### Relations:
+RF-06-1
+
+### Comments:
+N/A

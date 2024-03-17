@@ -1,0 +1,22 @@
+### ID: 
+RF-03-7
+
+### Type/Category: 
+Requisit funcional
+
+### Version: 
+1.0
+
+### Title:
+Evitar fraus
+
+### Description:
+La plataforma també tindrà un sistema de protecció dels venedors. S’acceptaran reclamacions de les botigues en cas que el pagament de la comanda hagi estat anul·lat. 
+Aquestes reclamacions no seran tampoc automàtiques, però sí que estaran parcialment protegides per una assegurança amb una companyia externa
+
+### Relations:
+RF-03-5
+RF-03-6
+
+### Comments:
+N/A

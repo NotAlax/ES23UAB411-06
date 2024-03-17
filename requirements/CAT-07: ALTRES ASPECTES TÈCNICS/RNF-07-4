@@ -1,0 +1,19 @@
+### ID: 
+RNF-07-4
+
+### Type/Category: 
+RNF: Interfície externa (software)
+### Version: 
+1.0
+
+### Title:
+Interficie per garantir disponibilitat de la plataforma
+
+### Description:
+S'utilitzarà DigitalOcean com proveïdor IaaS (Infrastructure as a Service) per garantir aquest nivell de disponibilitat amb un cost raonable.
+
+### Relations:
+RNF-07-3
+
+### Comments:
+N/A

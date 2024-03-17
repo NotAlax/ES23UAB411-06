@@ -1,0 +1,20 @@
+### ID: 
+RF-03-5
+
+### Type/Category: 
+Requisit funcional
+
+### Version: 
+1.0
+
+### Title:
+Mecanisme d'abonaments
+
+### Description:
+Hi haurà un mecanisme d’abonaments, es a dir, si la comanda no s’ha lliurat, o s’ha fet malbé, podrà seleccionar el retorn del seu pagament dins la mateixa aplicació. 
+Per comprovar si s’ha de retornar una comanda en el mecanisme d’abonaments, hi haurà un procés d’avaluació i supervisió que caldrà seguir perquè l’abonament sigui acceptat i evitar el frau.
+
+### Relations:
+
+### Comments:
+N/A

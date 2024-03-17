@@ -8,13 +8,14 @@ Requisit funcional
 1.0
 
 ### Title: 
-
+Preu Transport
 
 ### Description: 
-
+El preu del transport que paga el client es fixara al presentar les ofertes i sera un preu tancat
 
 ### Relations: 
-
+RF-04-4
+RF-04-5
 
 ### Comments: 
 N/A

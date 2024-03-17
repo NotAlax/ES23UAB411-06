@@ -1,1 +1,20 @@
+### ID: 
+RF-03-2
 
+### Type/Category: 
+Requisit funcional
+
+### Version: 
+1.0
+
+### Title:
+Pagament de les botigues
+
+### Description:
+Les botigues podran escollir quins mètodes de pagaments volen acceptar.
+
+### Relations:
+RF-03-1
+
+### Comments:
+N/A

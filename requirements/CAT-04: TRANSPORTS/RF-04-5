@@ -8,13 +8,14 @@ Requisit funcional
 1.0
 
 ### Title: 
-
+Planificador de rutes
 
 ### Description: 
-
+La plataforma tindrà un planificador de rutes que minimitzi les despeses del transport comunicant diverses comandes per tal que 
+un transportista pugui lliurar mes d’una comanda en una mateixa ruta.
 
 ### Relations: 
-
+RF-04-3
 
 ### Comments: 
 N/A

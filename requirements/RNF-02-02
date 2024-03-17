@@ -1,0 +1,21 @@
+### ID: 
+RNF-02-2
+
+### Type/Category:
+Requisit no funcional de interficies externa
+
+### Version: 
+1.0
+
+### Title: 
+Seguiment del transportista
+
+### Description: 
+Quan l'estat de la comanda sigui "distribuint la comanda" es proporcionarà una mapa amb la interffíci de google maps
+on es podra veure on es troba el transportista.
+
+### Relations: 
+RF-02-4
+
+### Comments: 
+També s'haura de mostrar dia i hora aproximada del lliuramnet

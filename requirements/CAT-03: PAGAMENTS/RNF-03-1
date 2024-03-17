@@ -8,7 +8,7 @@ Requisit no funcional: interfície Externa (usuari)
 1.0
 
 ### Title:
-Interfaç pagament
+Interfície de pagament
 
 ### Description:
 El sistema haurà de proporcionar una interfaç d’usuari que permeti seleccionar el mètode de pagament preferit a l’hora de pagar i també de quins metodes de pagament volen acceptar les botigues.

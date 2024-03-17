@@ -1,1 +1,20 @@
+### ID: 
+RF-03-1
+
+### Type/Category: 
+Requisit funcional
+
+### Version: 
+1.0
+
+### Title:
+Efectuar el pagament
+
+### Description:
 Els clients efectuaran el pagament en el moment d’acceptar alguna de les ofertes que se’ls hi proposaran. Faran el pagament amb el mètode que vulguin entre els disponibles i llavors la comanda serà ferma.
+
+### Relations:
+RF-03-1
+
+### Comments:
+N/A

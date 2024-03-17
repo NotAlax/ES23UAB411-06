@@ -1,0 +1,22 @@
+### ID: 
+RNF-05-1
+
+### Type/Category:
+Requisit no funcional de interícies externes
+
+### Version: 
+1.0
+
+### Title: 
+Proveîdor extern
+
+### Description: 
+Per la publicitat s'utilitzara un proveîdor extern que proporicionara un conjunt de banners de productes que 
+mostrara la plataforma
+
+### Relations: 
+RF-05-2
+
+### Comments: 
+La plataforma rebrà directament una quantitat per cada banner
+mostrat.

@@ -1,0 +1,20 @@
+### ID: 
+RNF-02-3
+
+### Type/Category:
+Requisit no funcional de rendiment estatic
+
+### Version: 
+1.0
+
+### Title: 
+Nombre de comandes
+
+### Description: 
+El màxim de comendes que un client pot tenir en marxa és de 100
+
+### Relations: 
+RF-02-3
+
+### Comments: 
+En marxa es considera qualsevol dels estats de “rebut per la tenda”, “en preparació de la comanda” o “en distribució".

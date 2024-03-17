@@ -8,13 +8,15 @@ Requisit funcional
 1.0
 
 ### Title: 
-
+Sistema GPS
 
 ### Description: 
-
+Tant els transportistes com els botiguers amb entrega propia seran controlats amb un sistema GPS que enviara la ubicació a la plataforma per tal 
+de mantenir un control de la distàcia i que els clients puguin localitzar la comanda en distribució.
 
 ### Relations: 
-
+RF-04-3
+RF-04-4
 
 ### Comments: 
 N/A

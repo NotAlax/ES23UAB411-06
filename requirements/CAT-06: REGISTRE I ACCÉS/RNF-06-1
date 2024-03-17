@@ -1,0 +1,20 @@
+### ID: 
+RNF-06-1
+
+### Type/Category: 
+Requisit funcional (Decisió de disseny per acompliment d''estàndarts)
+
+### Version: 
+1.0
+
+### Title:
+Autenticació dades fiscals al registre dels transportistes
+
+### Description:
+En el cas dels transportistes, el registre només pot ser a través del mateix sistema per autenticar totes les dades fiscals per a fer els pagaments seguint la legislació vigent.
+
+### Relations:
+RF-06-2
+
+### Comments:
+N/A

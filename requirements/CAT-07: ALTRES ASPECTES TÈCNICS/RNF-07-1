@@ -14,7 +14,7 @@ Interficie de la BD
 La base de dades haurà d’estar en una base de dades relacional amb interfície SQL.
 
 ### Relations:
-RF-07-2
+RNF-07-2
 
 ### Comments:
 N/A

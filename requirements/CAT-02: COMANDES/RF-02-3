@@ -8,9 +8,10 @@ Requisit funcional
 1.0
 
 ### Title: 
-Selecció d'oferta i creació de la comanda
+Seleccionar oferta
 
 ### Description: 
+El client ha de seleccionar una de les ofertes que li apareix per pantalla
 Un cop s'accepta una de les oferte rebudes, es genera una comanda i aquesta
 s'envia al botiguer amb totes les dades per servir-la
 

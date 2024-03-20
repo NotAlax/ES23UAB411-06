@@ -5,10 +5,10 @@ RF-03-5
 Requisit funcional
 
 ### Version: 
-1.0
+1.1
 
 ### Title:
-Mecanisme d'abonaments
+Retornar comandes
 
 ### Description:
 Hi haurà un mecanisme d’abonaments, es a dir, si la comanda no s’ha lliurat, o s’ha fet malbé, podrà seleccionar el retorn del seu pagament dins la mateixa aplicació. 

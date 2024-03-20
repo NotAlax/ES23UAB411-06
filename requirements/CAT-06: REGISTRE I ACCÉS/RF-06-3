@@ -5,10 +5,10 @@ RF-06-3
 Requisit funcional
 
 ### Version: 
-1.0
+1.1
 
 ### Title:
-Registre a mitjançant aplicacions externes
+Habilitar Registre a mitjançant aplicacions externes pels clients
 
 ### Description:
 El sistema ha de proporcionar diverses opcions de registre per als clients, com ara registre per e-mail, registre per número de mòbil i autenticació externa.

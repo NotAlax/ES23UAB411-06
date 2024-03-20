@@ -5,11 +5,10 @@ RF-01-2
 Requisit funcional
 
 ### Version: 
-1.0
+1.1
 
 ### Title: 
-Feina per particulars
-
+Generar feina a transportistes
 
 ### Description: 
 La plataforma ha de generar feina per particulars o transportistes locals que no pertanyin a un grup empresarial.

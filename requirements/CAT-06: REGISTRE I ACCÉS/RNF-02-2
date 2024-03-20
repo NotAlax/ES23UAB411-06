@@ -2,13 +2,13 @@
 RF-06-4
 
 ### Type/Category: 
-Requisit funcional
+Requisit no funcional (Decisió de disseny)
 
 ### Version: 
-1.0
+1.1
 
 ### Title:
-Registre a transportistes només plataforma
+Registre transportistes només via plataforma
 
 ### Description:
 El sistema ha de permetre únicament el registre dels transportistes a través del mateix sistema.

@@ -5,10 +5,10 @@ RF-03-7
 Requisit funcional
 
 ### Version: 
-1.0
+1.1
 
 ### Title:
-Evitar fraus
+Protegir reclamacions
 
 ### Description:
 La plataforma també tindrà un sistema de protecció dels venedors. S’acceptaran reclamacions de les botigues en cas que el pagament de la comanda hagi estat anul·lat. 

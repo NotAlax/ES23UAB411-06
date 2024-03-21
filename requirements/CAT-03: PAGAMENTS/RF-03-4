@@ -8,7 +8,7 @@ Requisit funcional
 1.1
 
 ### Title:
-Moment d'efectuar el pagament
+Efectuar el pagament al acceptar oferta
 
 ### Description:
 Els clients efectuaran el pagament en el moment d’acceptar alguna de les ofertes que se’ls hi proposaran. Faran el pagament amb el mètode que vulguin entre els disponibles i llavors la comanda serà ferma.

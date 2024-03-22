@@ -8,10 +8,10 @@ Requisit funcional
 1.1
 
 ### Title:
-Habilitar modificació dades clients i eliminar perfil
+Eliminar compte
 
 ### Description:
-El sistema ha de permetre als usuaris eliminar i modificar les seves dades per donar-se de baixa
+El sistema ha de permetre al usuari eliminar el seu compte.
 
 ### Relations:
 RF-06-1

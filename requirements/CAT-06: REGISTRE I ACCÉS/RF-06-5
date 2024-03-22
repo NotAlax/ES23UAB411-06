@@ -1,0 +1,20 @@
+### ID: 
+RF-06-5
+
+### Type/Category: 
+Requisit funcional
+
+### Version: 
+1.1
+
+### Title:
+Accedir a l'aplicació
+
+### Description:
+L'aplicació ha de peremtre el accés als usuaris a la seva respectiva compte fent ús del seu nom d'usuari i contrasenya
+
+### Relations:
+RF-06-1
+
+### Comments:
+N/A

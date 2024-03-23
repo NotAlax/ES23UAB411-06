@@ -8,10 +8,10 @@ Requisit funcional
 1.1
 
 ### Title:
-Habilitar registre mitjançant aplicacions externes pels clients
+Accedir al servei a partir d'una compte
 
 ### Description:
-El sistema ha de proporcionar diverses opcions de registre per als clients, com ara registre per e-mail, registre per número de mòbil i autenticació externa.
+Ha de permetre a qualsevol perfil d'usuari accedir a l'aplicació a través de les seves credencials
 
 ### Relations:
 RF-06-1

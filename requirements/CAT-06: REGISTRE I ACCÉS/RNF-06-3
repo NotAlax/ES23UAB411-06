@@ -11,7 +11,7 @@ Requisit no funcional de decisió de disseny
 Accedir a l'aplicació
 
 ### Description:
-L'aplicació ha de peremtre el accés als usuaris a la seva respectiva compta fent ús del seu nom d'usuari i contrasenya
+El sistema ha de proporcionar diverses opcions de registre per als clients, com ara registre per e-mail, registre per número de mòbil i autenticació externa.
 
 ### Relations:
 RF-06-1

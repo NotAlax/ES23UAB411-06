@@ -5,7 +5,7 @@ RF-06-2
 Requisit funcional
 
 ### Version: 
-1.1
+1.2
 
 ### Title:
 Modificar compte
@@ -17,4 +17,4 @@ El sistema ha de permetre al usuari modificar les seves dades personals.
 N/A
 
 ### Comments:
-Per poder fer servir el servei s'ha d'estar registrat.
+El client ha de poder modificar les seves dades a conveniència.

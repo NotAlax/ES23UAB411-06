@@ -11,7 +11,6 @@ Requisit funcional
 Protegir reclamacions
 
 ### Description:
-La plataforma també tindrà un sistema de protecció dels venedors. S’acceptaran reclamacions de les botigues en cas que el pagament de la comanda hagi estat anul·lat. 
 Aquestes reclamacions no seran tampoc automàtiques, però sí que estaran parcialment protegides per una assegurança amb una companyia externa
 
 ### Relations:

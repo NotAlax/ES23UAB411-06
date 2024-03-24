@@ -14,7 +14,9 @@ Crear compte usuari
 El sistema ha de permetre al usuari registrar-se per fer ús del servei
 
 ### Relations:
-RF-06-1
+RNF-06-1
+RNF-06-2
+RNF-06-3
 
 ### Comments:
 Per poder fer servir el servei s'ha d'estar registrat.
